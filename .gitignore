@@ -1,0 +1,9 @@
+*.txt
+
+__pycache__/
+
+data/
+
+venv/
+
+trash.py
